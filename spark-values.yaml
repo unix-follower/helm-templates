@@ -1,0 +1,8 @@
+# master:
+  # webPort: 80
+
+service:
+  webPort: 8080
+
+worker:
+  replicaCount: 1

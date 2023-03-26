@@ -1,0 +1,9 @@
+auth:
+  password: redis
+
+replica:
+  replicaCount: 1
+
+# replica:
+#   autoscaling:
+#     minReplicas: 0

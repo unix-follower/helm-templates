@@ -1,0 +1,17 @@
+# image:
+#   tag: 12.10.0
+
+auth:
+  postgresPassword: postgres
+
+# containerPorts:
+  # postgresql: 30432
+
+# primary:
+#   service:
+#     # type: ClusterIP
+#     type: NodePort
+#     ports:
+#       postgresql: 30432
+#     nodePorts:
+#       postgresql: 30432
